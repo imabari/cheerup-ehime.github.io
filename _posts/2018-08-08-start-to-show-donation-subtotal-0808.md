@@ -18,7 +18,7 @@ sidemenu:
 愛媛県、被災地の市町村への義援金募集が当初から始まっていますが、現在の状況はどうなんでしょうか？
 代理寄付などもあり全体がわかりずらいので、小計を出してみました。
 
-![/assets/images/2018-08-08-13-34-46.png](/assets/images/2018-08-08-13-34-46.png)
+![https://docs.google.com/spreadsheets/d/e/2PACX-1vR_CFMptnG-5lgZQ7P0UepPod3OerN3VWFAeXb0YgZGg73PijhLkWDxAIWRwOBM8kmWxP7ubxnedkj1/pubchart?oid=825022101&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_CFMptnG-5lgZQ7P0UepPod3OerN3VWFAeXb0YgZGg73PijhLkWDxAIWRwOBM8kmWxP7ubxnedkj1/pubchart?oid=825022101&format=image)
 
 このグラフを見て、義援金を寄付する場所を決める参考にしてみてはいかがでしょうか？
 
